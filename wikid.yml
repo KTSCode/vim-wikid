@@ -1,0 +1,8 @@
+wikis:
+  path: /home/x/Dropbox/Documents/Vim/
+  1:
+    name: test1
+  2:
+    name: test2
+settings:
+  config: wc
