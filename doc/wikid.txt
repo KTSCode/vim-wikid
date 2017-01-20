@@ -1,0 +1,3 @@
+*wikid.txt* A wicked awesome Wiki inside Vim
+
+Version: *0.1*
